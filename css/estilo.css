@@ -1,17 +1,12 @@
 body
 {
-     background-color: aqua;
-     color: blueviolet;
-    text-align: center;
-    font-size: xx-large;
-    font-family: 'Times New Roman', Times, serif;
-   
+    color: #333;
+    text-align: left;
+    font-family: "Arial"
 }
 
-iframe
+#conteiner
 {
-    background-color: chocolate;
-    text-align: right;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: larger;
+    width: 70%;
+    padding: 1em;
 }
