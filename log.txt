@@ -1,0 +1,71 @@
+commit fa9b12ad3e65306e9df699a4105e351923c4f791
+Author: mingo77 <mingo89@hotmail.it>
+Date:   Thu Mar 9 12:53:31 2023 -0500
+
+    Fatto anche html
+
+commit 0d7dd6b6d8e2b016f81cd0784ae5ef4ec2484c74
+Author: mingo77 <mingo89@hotmail.it>
+Date:   Thu Mar 9 12:50:08 2023 -0500
+
+    Mezzo lavoro
+
+commit 214abfab7ac8bb259ded05d7d896abbe871b97ff
+Author: mingo77 <mingo89@hotmail.it>
+Date:   Thu Mar 9 10:46:00 2023 -0500
+
+    Un primo risultato
+
+commit 058397ed571bb3609ea4cb73abd8bad52e5d58cb
+Author: mingo77 <mingo89@hotmail.it>
+Date:   Thu Mar 9 10:29:39 2023 -0500
+
+    Niente di speciale
+
+commit f93785128ac7a61267f3129adfa64df5e2fe30b7
+Author: mingo77 <mingo89@hotmail.it>
+Date:   Thu Mar 9 09:49:02 2023 -0500
+
+    Agrego el texto a la pagina web
+
+commit f5017e2e0b0020cad43047829172879fd8c1bd77
+Author: mingo77 <mingo89@hotmail.it>
+Date:   Thu Mar 9 09:41:47 2023 -0500
+
+    Creo el texto
+
+commit b55b069f02730b467962f6a2dd3dc345ff0b2059
+Author: mingo77 <mingo89@hotmail.it>
+Date:   Wed Mar 8 16:16:31 2023 -0500
+
+    Prove e riprove
+
+commit 1bbd3842d348b7e086aeca4ccde132c1e2554b83
+Author: mingo77 <mingo89@hotmail.it>
+Date:   Wed Mar 8 16:08:27 2023 -0500
+
+    Aggiunte per provare
+
+commit 88bf02f14d264b2f0bf65f09c5b5415bd219e08f
+Author: mingo77 <mingo89@hotmail.it>
+Date:   Wed Mar 8 12:07:05 2023 -0500
+
+    Cambio colore
+
+commit 58507f8e83675e5a772a3f0f7acb3cdab63fc3c7
+Author: mingo77 <mingo89@hotmail.it>
+Date:   Wed Mar 8 12:02:55 2023 -0500
+
+    Il progetto cresce
+
+commit aa5f9b36dda6b1c2f49434f5e0cd842f689b812c
+Author: mingo77 <mingo89@hotmail.it>
+Date:   Wed Mar 8 10:42:54 2023 -0500
+
+    Primo cambio
+
+commit f5ef66b075282f18cfb308efbad3642464ec19eb
+Author: mingo77 <mingo89@hotmail.it>
+Date:   Wed Mar 8 10:19:12 2023 -0500
+
+    Creazione Progetto
